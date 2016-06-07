@@ -1,0 +1,9 @@
+[submodule "Integer Sequence Learning/algorithms-python"]
+	path = Integer Sequence Learning/algorithms-python
+	url = https://github.com/hikari9/algorithms-python
+[submodule "Integer Sequence Learning/algo"]
+	path = Integer Sequence Learning/algo
+	url = https://github.com/hikari9/algorithms-python
+[submodule "algorithms-python"]
+	path = algorithms-python
+	url = https://github.com/hikari9/algorithms-python
